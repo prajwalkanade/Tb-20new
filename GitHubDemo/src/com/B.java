@@ -10,6 +10,10 @@ public class B {
 	{
 	System.out.println("Hi");
 	}
+	public void m3()
+	{
+		System.out.println("nkchkch")
+		}
 
 	public static void main(String[] args)
 	{
