@@ -12,7 +12,7 @@ public class B {
 	}
 	public void m3()
 	{
-		System.out.println("nkchkch")
+		System.out.println("start")
 		}
 
 	public static void main(String[] args)
